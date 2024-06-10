@@ -1,0 +1,21 @@
+----EXTRACTING
+
+To extract files
+1)Put .AWB file to be extracted in /AWB 
+2)Run EXTRACT.bat 
+3)Done, results are in /WAV folder
+
+----RETRACTING (or whatever the name is)
+
+To repack your wav files
+1)Put .AWB file you want to change in /AWB
+2)Put .wav file/s you want to reinsert in /WAV folder
+3)Run REPACK.bat
+4)Done
+
+----------Note
+
+-The .awb files can be found in 
+SteamLibrary\steamapps\common\Captain Tsubasa Rise of New Champions\GameData\sound
+
+-Ignore the HCA Folder, I wanted to hide it but it broke the scripts and I couldn't care to change it (lol)
